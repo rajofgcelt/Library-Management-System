@@ -1,0 +1,50 @@
+body{
+  margin: 0 auto;
+  background-image: url(../Img/b4.jpg);
+  background-size: 100% 125%;
+  background-repeat: no-repeat;;
+}
+
+.headContainer{
+  border: none; 
+  height: 210px;
+  background-color: #54D8DC;
+  margin-top: 30px;
+}
+
+.logo{
+  border: none;
+  padding: 5px;
+  width: 150;
+  height: 183px;
+  float: left;
+  margin: 5px;
+}
+
+.logo img{
+  width: 180px;
+  height: 180px;
+}
+
+.collegeName{
+  border: none;
+  width: 900px;
+  height: 40px;
+  font-size: 35px;
+  text-align: center;
+  margin-top: 19px;
+  float: right;
+  color: white;
+}
+
+.libTitle2{
+  border: none;
+  width: 900px;
+  height: 43px;
+  font-size: 32px;
+  text-align: center;
+  margin-top: 75px;
+  float: right;
+  color: white;
+}
+
